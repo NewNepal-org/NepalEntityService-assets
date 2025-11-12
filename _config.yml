@@ -1,7 +1,7 @@
 title: NES Asset Repo
 description: Nepal Entity Service assets
-baseurl: "/NepalEntityService-assets"
-url: "https://username.github.io"
+baseurl: "/"
+url: "https://assets.nes.newnepal.org"
 
 markdown: kramdown
 highlighter: rouge
